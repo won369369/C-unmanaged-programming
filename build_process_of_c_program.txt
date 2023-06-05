@@ -1,0 +1,3 @@
+source code (.c) --> preprocessor --> modified source code --> 
+compiler --> assembly code --> assembler --> object code (.o/.obj) --> linker --> executable (.exe)
+
